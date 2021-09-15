@@ -4,6 +4,10 @@ Este proyecto busca mostrar una posible forma de organizar el código que se va 
 
 Esta organización es una sugerencia que puede ser adaptada a  las necesidades y gustos de cada persona.
 
+Estudiantes:
+Juan Esteban Currea - 201922133
+Raul Santiago Insuasty - 202015512
+
 La estructura tiene los siguiente directorios y archivos:
 
 -App
